@@ -1,0 +1,42 @@
+[
+  {
+    "id": "fall-2026-priority-registration",
+    "title": "Fall 2026 Registration — Check Your Date",
+    "details": "Priority registration for fall quarter is underway. Open MyPortal, click the Student Registration card and open the Registration Dashboard to find your registration time ticket — then register as early as you can for the best class selection.",
+    "category": "deadline",
+    "start": "2026-07-22",
+    "end": null,
+    "location": null,
+    "url": "https://www.deanza.edu/register/"
+  },
+  {
+    "id": "summer-2026-classes-end",
+    "title": "Last Day of Most 6-Week Summer Classes",
+    "details": "Most six-week summer session classes finish this week, and your final exam is held on the last day of your class. Summer deadlines vary by section — check your class schedule in MyPortal.",
+    "category": "deadline",
+    "start": "2026-08-07",
+    "end": null,
+    "location": null,
+    "url": "https://www.deanza.edu/calendar/"
+  },
+  {
+    "id": "intl-fall-2026-arrival-prep",
+    "title": "International Students: Fall Arrival Prep",
+    "details": "Arriving for fall quarter? Double-check your I-20 and visa, arrange housing, and watch for International Student Programs' new-student orientation announcements before classes start Sept. 21.",
+    "category": "international",
+    "start": "2026-08-17",
+    "end": null,
+    "location": "International Student Programs Office",
+    "url": "https://www.deanza.edu/international/new-students/orientation.html"
+  },
+  {
+    "id": "academic-year-2026-27-begins",
+    "title": "2026-27 Academic Year Begins",
+    "details": "The new academic year officially begins across the Foothill-De Anza district.",
+    "category": "general",
+    "start": "2026-09-16",
+    "end": null,
+    "location": null,
+    "url": "https://www.deanza.edu/calendar/"
+  }
+]
