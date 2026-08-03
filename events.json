@@ -1,26 +1,6 @@
 {
-  "updated": "2026-07-27T11:31:16.090746Z",
+  "updated": "2026-08-03T11:33:00.475283Z",
   "events": [
-    {
-      "id": "cal-190376619-2026-07-29",
-      "title": "CSU Application Workshop",
-      "details": "In this workshop, we will provide a page-by-page review of the online CSU application system, with time for questions at the end.Registration for the \u2026",
-      "category": "transfer",
-      "start": "2026-07-29T22:00:00Z",
-      "end": "2026-07-29T23:30:00Z",
-      "location": "Online via Zoom",
-      "url": "https://www.deanza.edu/events/month.html?m=07&y=2026"
-    },
-    {
-      "id": "cal-186205961-2026-08-01",
-      "title": "De Anza Flea Market",
-      "details": "The De Anza Flea Market is open from 8 a.m.-2 p.m. every first Saturday of the month. This market is year round and open rain or shine. There are 360\u2026",
-      "category": "social",
-      "start": "2026-08-01T15:00:00Z",
-      "end": "2026-08-01T21:00:00Z",
-      "location": "Parking Lots A & B",
-      "url": "https://www.deanza.edu/events/month.html?m=08&y=2026"
-    },
     {
       "id": "ddl-fall-2026-priority-registration",
       "title": "Fall 2026 Priority Registration Opens",
