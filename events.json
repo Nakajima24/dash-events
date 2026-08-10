@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T11:33:00.475283Z",
+  "updated": "2026-08-10T09:39:18.829171Z",
   "events": [
     {
       "id": "ddl-fall-2026-priority-registration",
@@ -10,36 +10,6 @@
       "end": "2026-08-17",
       "location": null,
       "url": "https://www.deanza.edu/apply-and-register/register/"
-    },
-    {
-      "id": "cal-190376621-2026-08-03",
-      "title": "CSU Application Workshop",
-      "details": "In this workshop, we will provide a page-by-page review of the online CSU application system, with time for questions at the end.Registration for the \u2026",
-      "category": "transfer",
-      "start": "2026-08-03T19:00:00Z",
-      "end": "2026-08-03T20:30:00Z",
-      "location": "Online via Zoom",
-      "url": "https://www.deanza.edu/events/month.html?m=08&y=2026"
-    },
-    {
-      "id": "cal-190376788-2026-08-06",
-      "title": "Transfer 101 Workshop",
-      "details": "Join us for this workshop to learn the basics of the transfer process and how to get started. Registration for the clinic will open two weeks before t\u2026",
-      "category": "transfer",
-      "start": "2026-08-06T17:00:00Z",
-      "end": "2026-08-06T18:30:00Z",
-      "location": "Online via Zoom",
-      "url": "https://www.deanza.edu/events/month.html?m=08&y=2026"
-    },
-    {
-      "id": "summer-2026-classes-end",
-      "title": "Last Day of Most 6-Week Summer Classes",
-      "details": "Most six-week summer session classes finish this week, and your final exam is held on the last day of your class. Summer deadlines vary by section \u2014 check your class schedule in MyPortal.",
-      "category": "deadline",
-      "start": "2026-08-07",
-      "end": null,
-      "location": null,
-      "url": "https://www.deanza.edu/calendar/"
     },
     {
       "id": "cal-190376630-2026-08-12",
