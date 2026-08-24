@@ -1,26 +1,6 @@
 {
-  "updated": "2026-08-17T08:50:27.098772Z",
+  "updated": "2026-08-24T08:54:49.938600Z",
   "events": [
-    {
-      "id": "ddl-fall-2026-priority-registration",
-      "title": "Fall 2026 Priority Registration Opens",
-      "details": "Registration opens by priority group, starting August 3 and continuing through August 17. Find your group's date and time ticket in MyPortal, and register as early as you can.",
-      "category": "deadline",
-      "start": "2026-08-03",
-      "end": "2026-08-17",
-      "location": null,
-      "url": "https://www.deanza.edu/apply-and-register/register/"
-    },
-    {
-      "id": "intl-fall-2026-arrival-prep",
-      "title": "International Students: Fall Arrival Prep",
-      "details": "Arriving for fall quarter? Double-check your I-20 and visa, arrange housing, and watch for International Student Programs' new-student orientation announcements before classes start Sept. 21.",
-      "category": "international",
-      "start": "2026-08-17",
-      "end": null,
-      "location": "International Student Programs Office",
-      "url": "https://www.deanza.edu/international/new-students/orientation.html"
-    },
     {
       "id": "cal-190376791-2026-08-25",
       "title": "University of California (UC) Application Workshop",
