@@ -1,36 +1,6 @@
 {
-  "updated": "2026-09-07T14:08:25.863310Z",
+  "updated": "2026-09-14T14:54:34.761571Z",
   "events": [
-    {
-      "id": "cal-188112642-2026-09-07",
-      "title": "Labor Day holiday - no classes; offices closed",
-      "details": "Labor Day holiday \u2013 no classes; offices closed",
-      "category": "general",
-      "start": "2026-09-07",
-      "end": null,
-      "location": null,
-      "url": "https://www.deanza.edu/events/month.html?m=09&y=2026"
-    },
-    {
-      "id": "cal-190376793-2026-09-08",
-      "title": "University of California (UC) Application Workshop",
-      "details": "In this workshop, we will provide a page-by-page review of the online UC application system, with time for questions at the end.Registration for the w\u2026",
-      "category": "transfer",
-      "start": "2026-09-08T16:30:00Z",
-      "end": "2026-09-08T18:00:00Z",
-      "location": "Online via Zoom",
-      "url": "https://www.deanza.edu/events/month.html?m=09&y=2026"
-    },
-    {
-      "id": "cal-190376728-2026-09-09",
-      "title": "UC Transfer Admission Guarantee (TAG) Workshop",
-      "details": "This workshop will cover resources and information about determining your UC TAG eligibility and how to use the online UC TAG system to submit your ap\u2026",
-      "category": "transfer",
-      "start": "2026-09-09T21:30:00Z",
-      "end": "2026-09-09T23:00:00Z",
-      "location": "Online via Zoom",
-      "url": "https://www.deanza.edu/events/month.html?m=09&y=2026"
-    },
     {
       "id": "cal-190376731-2026-09-14",
       "title": "UC Transfer Admission Guarantee (TAG) Workshop",
