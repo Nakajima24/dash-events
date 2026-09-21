@@ -1,56 +1,6 @@
 {
-  "updated": "2026-09-14T14:54:34.761571Z",
+  "updated": "2026-09-21T14:59:25.207533Z",
   "events": [
-    {
-      "id": "cal-190376731-2026-09-14",
-      "title": "UC Transfer Admission Guarantee (TAG) Workshop",
-      "details": "This workshop will cover resources and information about determining your UC TAG eligibility and how to use the online UC TAG system to submit your ap\u2026",
-      "category": "transfer",
-      "start": "2026-09-14T16:30:00Z",
-      "end": "2026-09-14T18:00:00Z",
-      "location": "Online via Zoom",
-      "url": "https://www.deanza.edu/events/month.html?m=09&y=2026"
-    },
-    {
-      "id": "academic-year-2026-27-begins",
-      "title": "2026-27 Academic Year Begins",
-      "details": "The new academic year officially begins across the Foothill-De Anza district.",
-      "category": "general",
-      "start": "2026-09-16",
-      "end": null,
-      "location": null,
-      "url": "https://www.deanza.edu/calendar/"
-    },
-    {
-      "id": "cal-189626083-2026-09-16",
-      "title": "District Opening Day",
-      "details": "More details to come.",
-      "category": "general",
-      "start": "2026-09-16",
-      "end": null,
-      "location": null,
-      "url": "https://www.deanza.edu/events/month.html?m=09&y=2026"
-    },
-    {
-      "id": "cal-189626082-2026-09-17",
-      "title": "College Opening Day",
-      "details": "Check back for more details",
-      "category": "general",
-      "start": "2026-09-17T15:00:00Z",
-      "end": "2026-09-18T00:00:00Z",
-      "location": "Visual and Performing Arts Center (VPAC)",
-      "url": "https://www.deanza.edu/events/month.html?m=09&y=2026"
-    },
-    {
-      "id": "cal-189626078-2026-09-18",
-      "title": "Welcome Day",
-      "details": "Check deanza.edu/welcomeday/ for updates.\u2026",
-      "category": "general",
-      "start": "2026-09-18T17:00:00Z",
-      "end": "2026-09-18T20:00:00Z",
-      "location": "Main Quad",
-      "url": "https://www.deanza.edu/events/month.html?m=09&y=2026"
-    },
     {
       "id": "cal-188112899-2026-09-21",
       "title": "Fall classes begin",
