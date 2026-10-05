@@ -1,36 +1,6 @@
 {
-  "updated": "2026-09-28T16:38:46.628476Z",
+  "updated": "2026-10-05T17:00:42.369953Z",
   "events": [
-    {
-      "id": "ddl-winter-2027-application-for-admission-open",
-      "title": "Winter 2027: Application for admission open",
-      "details": "Winter 2027 \u2014 from the academic Dates and Deadlines calendar.",
-      "category": "deadline",
-      "start": "2026-10-01",
-      "end": null,
-      "location": null,
-      "url": "https://www.deanza.edu/apply-and-register/"
-    },
-    {
-      "id": "ddl-fall-2026-last-day-to-add-12-week-classes",
-      "title": "Fall 2026: Last day to add 12-week classes",
-      "details": "Fall 2026 \u2014 from the academic Dates and Deadlines calendar.",
-      "category": "deadline",
-      "start": "2026-10-04",
-      "end": null,
-      "location": null,
-      "url": "https://www.deanza.edu/apply-and-register/register/add_drop.html"
-    },
-    {
-      "id": "ddl-fall-2026-last-day-to-drop-classes-without-a-w",
-      "title": "Fall 2026: Last day to drop classes without a W",
-      "details": "Fall 2026 \u2014 from the academic Dates and Deadlines calendar.",
-      "category": "deadline",
-      "start": "2026-10-04",
-      "end": null,
-      "location": null,
-      "url": "https://www.deanza.edu/apply-and-register/register/add_drop.html#Drop"
-    },
     {
       "id": "ddl-winter-2027-priority-registration",
       "title": "Winter 2027 Priority Registration Opens",
