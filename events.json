@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T18:35:38.028431Z",
+  "updated": "2026-11-16T18:12:57.561182Z",
   "events": [
     {
       "id": "ddl-winter-2027-priority-registration",
@@ -10,26 +10,6 @@
       "end": "2026-11-23",
       "location": null,
       "url": "https://www.deanza.edu/apply-and-register/register/"
-    },
-    {
-      "id": "ddl-fall-2026-veterans-day-holiday-no-classes-offices-closed",
-      "title": "Fall 2026: Veterans Day holiday \u2013 no classes; offices closed",
-      "details": "Fall 2026 \u2014 from the academic Dates and Deadlines calendar.",
-      "category": "general",
-      "start": "2026-11-11",
-      "end": null,
-      "location": null,
-      "url": "https://www.deanza.edu/calendar/dates-and-deadlines.html"
-    },
-    {
-      "id": "ddl-fall-2026-last-day-to-drop-classes-with-a-w",
-      "title": "Fall 2026: Last day to drop classes with a W",
-      "details": "Fall 2026 \u2014 from the academic Dates and Deadlines calendar.",
-      "category": "deadline",
-      "start": "2026-11-13",
-      "end": null,
-      "location": null,
-      "url": "https://www.deanza.edu/apply-and-register/register/add_drop.html#Drop"
     },
     {
       "id": "ddl-fall-2026-thanksgiving-holiday-no-classes-offices-closed",
